@@ -30,7 +30,10 @@ Trabajo en **Oracle** como Cloud Architect especializado en **OCI**, **Oracle Da
 
 ### 🤖 Inteligencia Artificial / Oracle 26ai
 
-> *Repositorios en construcción — demos y labs de IA empresarial con Oracle*
+| Repo | Descripción |
+|------|-------------|
+| [oracle-ai-mcp-server](https://github.com/jesmonsa/oracle-ai-mcp-server) | Kit completo para conectar Oracle Database con Claude AI vía MCP Server — guía, scripts PowerShell, SQL y configuración lista para usar |
+| [oracle-db-skills-es](https://github.com/jesmonsa/oracle-db-skills-es) | 100+ guías de Oracle Database en español listas para agentes de IA (Claude, Copilot, Cursor) — Performance, PL/SQL, Seguridad, Migraciones, ORDS, DevOps |
 
 ### ⚙️ DevOps & Scripts
 
