@@ -49,7 +49,6 @@ Trabajo en **Oracle** como Cloud Architect especializado en **OCI**, **Oracle Da
 | Repo | Descripción |
 |------|-------------|
 | [Security_Showcase_Enterprise](https://github.com/jesmonsa/Security_Showcase_Enterprise) | Casos de uso prácticos de seguridad empresarial en OCI |
-| [Veritran](https://github.com/jesmonsa/Veritran) | Migración AWS → OCI con Terraform (caso real de cliente) |
 
 ### 📦 Archivados (migrados a oracle-cloud-latam)
 
