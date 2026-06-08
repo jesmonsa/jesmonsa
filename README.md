@@ -44,6 +44,18 @@ Trabajo en **Oracle** como Cloud Architect especializado en **OCI**, **Oracle Da
 | [oracle-ai-mcp-server](https://github.com/jesmonsa/oracle-ai-mcp-server) | Kit completo para conectar Oracle Database con Claude AI vía MCP Server — guía, scripts, SQL y configuración |
 | [oracle-db-skills-es](https://github.com/jesmonsa/oracle-db-skills-es) | 100+ guías de Oracle Database en español para agentes de IA (Claude, Copilot, Cursor) |
 
+### 🔬 Oracle Exadata ExaScale
+
+Guías operacionales para **Exadata Exascale Database Service** con Oracle Database 26ai en OCI. Contenido trilingüe (EN/ES/PT).
+
+> 📌 *Contenido original de [Efrain Sánchez](https://github.com/efrainsanchez-ai) — Gerente de Producto, Oracle*
+
+| Guía | Descripción |
+|------|-------------|
+| [🩺 Health Check RAC](https://jesmonsa.github.io/exascale/Healthcheck/index.html) | 14 pasos de validación: Grid Infrastructure, listeners, servicios, SQL views, OLTP, TAF, RLB, batch |
+| [🔄 Escalado de Clúster](https://jesmonsa.github.io/exascale/Cluster/index.html) | De 1 a 2 nodos RAC: SCAN, HA (FAN/ONS/RLB/AC/TAC), balanceo de carga, queries de monitoreo |
+| [📂 Repositorio](https://github.com/jesmonsa/exascale) | Fork con README extendido — ver repo original: [efrainsanchez-ai/exascale](https://github.com/efrainsanchez-ai/exascale) |
+
 ### 🛡️ Seguridad & Casos de Uso
 
 | Repo | Descripción |
@@ -63,6 +75,7 @@ Trabajo en **Oracle** como Cloud Architect especializado en **OCI**, **Oracle Da
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
+![Exadata](https://img.shields.io/badge/Exadata_Exascale-F80000?style=flat&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -75,6 +88,7 @@ Trabajo en **Oracle** como Cloud Architect especializado en **OCI**, **Oracle Da
 
 - **Cloud Architecture** — Diseño de soluciones en OCI para LATAM
 - **Oracle Database 26ai** — Vector Search, RAG, AI integrado en BD
+- **Exadata Exascale** — RAC, health checks, escalado de clústeres, alta disponibilidad
 - **Terraform / OpenTofu** — IaC para infraestructura empresarial multi-entorno
 - **Kubernetes (OKE)** — Clusters empresariales, ingress, autoscaling, observabilidad
 - **AI / MCP** — Integración de agentes IA con bases de datos Oracle vía MCP Server
